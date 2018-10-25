@@ -16,7 +16,9 @@ add mod1 = Alt_L Meta_L
 
 Save the file and quit vim. Next time you login the new keymappings will be active. To have the settings take immediate effect run the following command:
 
-~```xmodmap ~/.Xmodmap```
+```
+xmodmap ~/.Xmodmap
+```
 
 Setting -> Keyboard
 Adjust the following:
