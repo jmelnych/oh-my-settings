@@ -1,5 +1,6 @@
 set tabstop=4
 set shiftwidth=4
+set nu
 inoremap {      {}<Left>
 inoremap {<CR> {<CR>}<Esc>O
 inoremap {{     {
