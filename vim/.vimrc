@@ -12,7 +12,6 @@ inoremap (<CR>  (<CR>)<Esc>O
 inoremap ((     (
 inoremap ()     ()
 
-let @/='\s\{2}'
 set hls
 
 " Show trailing whitespace:
