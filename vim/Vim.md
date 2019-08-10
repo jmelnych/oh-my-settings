@@ -1,6 +1,6 @@
-restart sourse:
+Restart source:
 ```source ~/.vimrc```
 
-reniitialize
+Reinitialize:
 ```. ~/.vimrc```
 
